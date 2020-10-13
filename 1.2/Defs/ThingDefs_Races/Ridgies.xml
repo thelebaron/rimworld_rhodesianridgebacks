@@ -10,8 +10,8 @@
     <description>A large sized hunting dog. Bred for hunting large game such as lions and wild boar as well as being faithful household compaions.</description>
     <statBases>
       <MoveSpeed>6.5</MoveSpeed>
-      <MarketValue>460</MarketValue>
-      <ComfyTemperatureMin>-8</ComfyTemperatureMin>
+      <MarketValue>700</MarketValue>
+      <ComfyTemperatureMin>-6</ComfyTemperatureMin>
     </statBases>
     <tools>
       <li>
@@ -82,7 +82,7 @@
       <body>QuadrupedAnimalWithPawsAndTail</body>
       <predator>true</predator>
       <maxPreyBodySize>2.3</maxPreyBodySize>
-      <petness>0.8</petness><!-- was 0.6 -->
+      <petness>1.0</petness>
       <!-- not sure about this -->
       <!--  <useMeatFrom>rtp_Beagle</useMeatFrom> -->
       
