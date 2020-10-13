@@ -148,7 +148,8 @@
         <labelPlural>rhodesian ridgeback puppies</labelPlural>
         <bodyGraphicData>
           <texPath>Things/Pawn/Animal/RhodesianRidgeback/RhodesianRidgeback</texPath>
-          <drawSize>0.65</drawSize>
+          <drawSize>0.75</drawSize>
+		  <shaderType>CutoutComplex</shaderType>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
@@ -159,6 +160,7 @@
         <bodyGraphicData>
           <texPath>Things/Pawn/Animal/RhodesianRidgeback/RhodesianRidgeback</texPath>
           <drawSize>1.4</drawSize>
+          <shaderType>CutoutComplex</shaderType>
           <shadowData>
             <volume>(0.25, 0.3, 0.25)</volume>
             <offset>(0,0,-0.15)</offset>
@@ -172,7 +174,8 @@
       <li>
         <bodyGraphicData>
           <texPath>Things/Pawn/Animal/RhodesianRidgeback/RhodesianRidgeback</texPath>
-          <drawSize>1.7</drawSize>
+          <drawSize>2.0</drawSize>
+          <shaderType>CutoutComplex</shaderType>
           <shadowData>
             <volume>(0.3, 0.4, 0.3)</volume>
             <offset>(0,0,-0.15)</offset>
