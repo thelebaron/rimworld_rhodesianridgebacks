@@ -1,6 +1,6 @@
 # rimworld _RhodesianRidgebacks!_ _BorderCollies!_ _Greyhounds!_
 
-![RimworldRidgies](About/Preview.png)
+![RimworldRidgies](BREEDS_SUBFOLDER/Ridgebacks!/About/Preview.png)
 
 mods that add ridgies, bordercollies and long snooty boys to rimworld  
 https://steamcommunity.com/sharedfiles/filedetails/?id=2076237940
