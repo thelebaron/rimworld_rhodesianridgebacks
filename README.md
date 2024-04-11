@@ -8,3 +8,5 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2076237940
 Reminder for myself as I will forget:
 
 Textures root folder should be kept around as it contains the master psd files. DO NOT DELETE IT CHRIS! It also contains the folder structure for the game files.
+
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods for local editing
